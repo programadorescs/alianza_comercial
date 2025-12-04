@@ -1,6 +1,15 @@
 <template>
-  <router-view />
+  <NavBar /> 
+  
+  <main>
+    <router-view />
+  </main>
 </template>
+
+<script setup>
+// Importa el nuevo componente
+import NavBar from '@/components/NavBar.vue' 
+</script>
 
 <style>
 * {
