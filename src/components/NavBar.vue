@@ -2,7 +2,7 @@
   <header class="navbar">
     <div class="header-content">
       <RouterLink to="/" class="brand-title">
-        <h1>📦 Alianza Comercial - Supabase + Vue</h1>
+        <h1>📦 Alianza Comercial - Supabase|Vue</h1>
       </RouterLink>
       
       <p class="subtitle">Datos obtenidos desde Supabase (lectura pública)</p>
