@@ -10,7 +10,7 @@
 
     <nav class="nav-links">
       <RouterLink to="/" class="nav-item">Inicio</RouterLink>
-      <RouterLink to="/categorias" class="nav-item">Categorías</RouterLink> 
+      <RouterLink to="/productos" class="nav-item">Productos</RouterLink> 
       <RouterLink to="/nosotros" class="nav-item">Nosotros</RouterLink>
       <RouterLink to="/contacto" class="nav-item">Contáctanos</RouterLink>
       </nav>
@@ -30,7 +30,7 @@
   align-items: center;
   text-align: center;
   padding: 20px 20px 10px; /* Reducimos el padding vertical */
-  background: linear-gradient(135deg, #42b883 0%, #347474 100%);
+  background: linear-gradient(135deg, #219ED6 0%, #2c3e50 100%);
   color: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
