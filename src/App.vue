@@ -4,11 +4,14 @@
   <main>
     <router-view />
   </main>
+
+  <AppFooter />
 </template>
 
 <script setup>
 // Importa el nuevo componente
 import NavBar from '@/components/NavBar.vue' 
+import AppFooter from '@/components/AppFooter.vue'
 </script>
 
 <style>
